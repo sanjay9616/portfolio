@@ -1,5 +1,5 @@
-import portfolioAceternity from "public/images/portfolio-aceternity-2.png";
-import portfolioAceternity2 from "public/images/portfolio-aceternity-2.png";
+import portfolioDigimro from "public/images/digimro.png";
+import portfolioDigimro2 from "public/images/digimro2.png";
 import portfolioAlgochurn from "public/images/portfolio-algochurn.png";
 import portfolioAlgochurn2 from "public/images/portfolio-algochurn.png";
 import portfolioMoonbeam from "public/images/portfolio-moonbeam.png";
@@ -9,31 +9,25 @@ import portfolioTailwindMasterKit2 from "public/images/portfolio-tailwindmasterk
 
 export const products = [
   {
-    href: "https://aceternity.com",
-    title: "Aceternity",
+    href: "https://www.digimro.com/",
+    title: "DIGIMRO",
     description:
-      "A design and development studio that focuses on building quality apps.",
-    thumbnail: portfolioAceternity,
-    images: [portfolioAceternity, portfolioAceternity2],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "aceternity",
+      "DigiMRO, India’s top distributor of low voltage security products, offers global brands, expert logistics, and extensive industry experience to help clients grow and succeed.",
+    thumbnail: portfolioDigimro,
+    images: [portfolioDigimro, portfolioDigimro2],
+    stack: ["Nextjs", "Tailwindcss", "Redux"],
+    slug: "digimro",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          DigiMRO is India's top distributor of various low voltage security products,
+          offering a wide range of global brands. With decades of experience in B2B distribution,
+          we work with major brands in CCTV, Access Control, Fire, Power, Audio/Video, and Network Systems.{" "}
         </p>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
+          As the largest system integration installer in the country, DigiMRO partners with top industry brands.
+          Our extensive reach, expertise, and logistics help suppliers and customers boost competitiveness,
+          maintain essential supply chains, and grow their business.
         </p>{" "}
       </div>
     ),
