@@ -20,7 +20,7 @@ export const products = [
     content: (
       <div>
         <p>
-          DigiMRO is India's top distributor of various low voltage security products,
+          DigiMRO is India&apos;s top distributor of various low voltage security products,
           offering a wide range of global brands. With decades of experience in B2B distribution,
           we work with major brands in CCTV, Access Control, Fire, Power, Audio/Video, and Network Systems.{" "}
         </p>
@@ -71,7 +71,7 @@ export const products = [
     content: (
       <div>
         <p>
-          At Credlix, we leverage Moglix's expertise in end-to-end supply chain transformation,
+          At Credlix, we leverage Moglix&apos;s expertise in end-to-end supply chain transformation,
           supporting 700 enterprises and 16,000 SMEs that export to 53 countries worldwide.
           We combine this with intelligent financial technology to reimagine cash-flow lending.{" "}
         </p>

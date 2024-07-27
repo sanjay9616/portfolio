@@ -42,15 +42,15 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className=" mt-4">
-          Hey there, I'm Sanjay Kumar - I love coding, writing, and great design.
+          Hey there, I&apos;m Sanjay Kumar - I love coding, writing, and great design.
           I enjoy writing clean, concise code and following best practices. Welcome to my digital space!
         </Paragraph>
         <Paragraph className=" mt-4">
-          Since I started, I've been fascinated by creating great digital experiences. As a developer,
+          Since I started, I&apos;ve been fascinated by creating great digital experiences. As a developer,
           I love turning code into useful and beautiful solutions. My aim is to build software that looks good and works well.
         </Paragraph>
         <Paragraph className=" mt-4">
-          But I don't just code. I also love writing.
+          But I don&apos;t just code. I also love writing.
           I write tech articles that explain tough topics and creative stories that spark the imagination.
           My goal is to inform, entertain, and inspire with my words.
         </Paragraph>
@@ -61,7 +61,7 @@ export default function About() {
         </Paragraph>
         <Paragraph className=" mt-4">
           Through this website, I want to share my insights, experiences, and creations with you.
-          Whether you're a developer looking for solutions, a writer looking for inspiration, or just someone who loves good design, you'll find something here for you.
+          Whether you&apos;re a developer looking for solutions, a writer looking for inspiration, or just someone who loves good design, you&apos;ll find something here for you.
         </Paragraph>
         <Paragraph className=" mt-4">
           Join me on this journey of coding and storytelling, logic and creativity, and design.
