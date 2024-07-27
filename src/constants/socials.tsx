@@ -12,7 +12,7 @@ export const socials = [
   },
   {
     href: "https://www.linkedin.com/in/sanjay9616/",
-    label: "LinkedIn",
+    label: "LinkedIn1",
     icon: IconBrandLinkedin,
   },
   {
