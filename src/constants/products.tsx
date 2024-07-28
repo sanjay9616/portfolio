@@ -6,6 +6,12 @@ import portfolioCredlix from "public/images/credlix.png";
 import portfolioCredlix2 from "public/images/credlix-2.png";
 import portfolioMaas from "public/images/maas.png";
 import portfolioMaas2 from "public/images/maas-2.png";
+import portfolioRdship from "public/images/rdship.png";
+import portfolioRdship2 from "public/images/rdship-2.png";
+import portfolioEmoScript from "public/images/emoscript.jpeg";
+import portfolioEmoScript2 from "public/images/emoscript-2.jpeg";
+import portfolioHeartDiseasePrediction from "public/images/heart-disease-prediction.webp";
+import portfolioHeartDiseasePrediction2 from "public/images/heart-disease-prediction-2.png";
 
 export const products = [
   {
@@ -102,6 +108,73 @@ export const products = [
         <p>
           Using Angular Material, the app delivers a user-friendly interface,
           making it easier for the team to manage orders and improve overall workflow.
+        </p>{" "}
+      </div>
+    ),
+  },
+  {
+    href: "https://rdship.com/",
+    title: "RDShip",
+    description:
+      "I created an e-commerce portal from scratch, handling the frontend, backend, and database.",
+    thumbnail: portfolioRdship,
+    images: [portfolioRdship, portfolioRdship2],
+    stack: ["MEAN", "MERN"],
+    slug: "rdship",
+    content: (
+      <div>
+        <p>
+          I developed this platform using two different stacks: MERN (MongoDB, Express, React, Node.js)
+          and MEAN (MongoDB, Express, Angular, Node.js). The portal functions similarly to Flipkart,
+          allowing users to browse and purchase products seamlessly.{" "}
+        </p>
+        <p>
+          Building it involved integrating secure payment systems, managing product inventories, and ensuring a user-friendly interface.
+          This comprehensive project showcases my skills in full-stack development and my ability to deliver complex, real-world applications.
+        </p>{" "}
+      </div>
+    ),
+  },
+  {
+    href: "https://emoscript.com/",
+    title: "EmoScript",
+    description:
+      "Detecting a person's emotions can be done using facial and speech recognition.",
+    thumbnail: portfolioEmoScript,
+    images: [portfolioEmoScript, portfolioEmoScript2],
+    stack: ["Numpy", "Pandas Matplotlib", "Sklearn", "HTML", "CSS", "Bootstrap", "JQuery"],
+    slug: "emoscript",
+    content: (
+      <div>
+        <p>
+          This includes identifying emotions from live video feeds, uploaded videos, and images.
+          The process involves analyzing facial expressions to determine how a person feels.{" "}
+        </p>
+        <p>
+          Additionally, emotions can be detected from uploaded speech and text by analyzing vocal tones and written content.
+        </p>{" "}
+      </div>
+    ),
+  },
+  {
+    href: "https://heart-disease-predicion.com/",
+    title: "Heart Disease Prediction",
+    description:
+      "This machine learning system predicts whether a person has heart disease.",
+    thumbnail: portfolioHeartDiseasePrediction,
+    images: [portfolioHeartDiseasePrediction, portfolioHeartDiseasePrediction2],
+    stack: ["Numpy", "Pandas Matplotlib", "Sklearn", "Logistic Regression"],
+    slug: "heart-disease-predicion",
+    content: (
+      <div>
+        <p>
+          It uses an ML algorithm to analyze a CSV dataset containing various test parameters.
+          Based on this analysis, it outputs a boolean value: 0 means the person has heart disease,
+          and 1 means the person does not have heart disease.{" "}
+        </p>
+        <p>
+          By processing the data, the system helps in early detection and diagnosis of heart conditions,
+          potentially saving lives through timely intervention.
         </p>{" "}
       </div>
     ),
