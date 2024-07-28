@@ -60,7 +60,7 @@ export const timeline = [
   {
     company: "DataRitz Technologies",
     title: "Machine Learning Intern",
-    date: "2019 - 2020",
+    date: "Jun 2020 - Sep 2020",
     description: "Building the future of heart disease prediction technology",
     responsibilities: [
       "Built a machine learning system to predict the likelihood of heart disease in individuals using various ML algorithms.",
