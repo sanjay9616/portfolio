@@ -1,32 +1,31 @@
 export const timeline = [
   {
-    company: "Amazon",
-    title: "Senior Software Engineer",
-    date: "2022 - Present",
+    company: "Moglix",
+    title: "Web Developer",
+    date: "Sep 2022 - Present",
     description: "Building the future of e-commerce",
     responsibilities: [
-      "Developed a new feature that improves the shopping experience",
-      "Implemented a recommendation algorithm to suggest products",
-      "Enhanced the checkout process making it more intuitive and user-friendly",
-      "Built a feature for tracking packages in real-time",
+      "Worked on 5 projects Maas, Credlix (Nuphi and Exim), EOC, and DIGIMRO.",
+      "Updated Angular version from 7 to 12 and enabled strict mode.",
+      "Implemented Invoice Breakup, Payment Breakup, Credit Notes, and Debit Notes with angular material design.",
+      "Login and Signup for supplier and admin with angular material design.",
     ],
   },
   {
-    company: "Google",
-    title: "Senior Software Engineer",
-    date: "2021 - 2022",
-    description: "Building the future of search",
+    company: "Cogitate Technology Solutions",
+    title: "Associate Developer",
+    date: "Apr 2022 - Sep 2022",
+    description: "Building the future of Digital Insurance Technology",
     responsibilities: [
-      "Improved the search algorithm to provide more relevant results",
-      "Developed a new feature that personalizes search results",
-      "Enhanced the search functionality making it more intuitive and user-friendly",
-      "Implemented a feature for tracking search history",
+      "Implemented Vehicle Info with angular material design.",
+      "Implemented Driver Info with angular material design.",
+      "Implemented Policy Info with angular material design.",
     ],
   },
   {
-    company: "Facebook",
-    title: "Senior Software Engineer",
-    date: "2020 - 2021",
+    company: "DataRitz Technologies",
+    title: "Full Stack Development Intern",
+    date: "May 2021 - Oct 2021",
     description: "Building the future of social networking",
     responsibilities: [
       "Developed a new feature that improves the user experience",
@@ -36,8 +35,8 @@ export const timeline = [
     ],
   },
   {
-    company: "Apple",
-    title: "Senior Software Engineer",
+    company: "DataRitz Technologies",
+    title: "Machine Learning Intern",
     date: "2019 - 2020",
     description: "Building the future of technology",
     responsibilities: [
@@ -48,9 +47,9 @@ export const timeline = [
     ],
   },
   {
-    company: "Microsoft",
-    title: "Senior Software Engineer",
-    date: "2018 - 2019",
+    company: "ABES Engineering College",
+    title: "Python 3 technology Intern",
+    date: "Jun 2019 - Jul 2019",
     description: "Building the future of software",
     responsibilities: [
       "Improved the Windows operating system to enhance user experience",
