@@ -6,46 +6,54 @@ import { twMerge } from "tailwind-merge";
 export const TechStack = () => {
   const stack = [
     {
-      title: "Next.js",
-      src: "/images/logos/next.png",
-
-      className: "h-10 w-14",
-    },
-    {
-      title: "AWS",
-      src: "/images/logos/aws.webp",
-
-      className: "h-10 w-10",
-    },
-    {
-      title: "Figma",
-      src: "/images/logos/figma.png",
-
+      title: "Angular",
+      src: "/images/logos/angular.png",
       className: "h-10 w-8",
     },
     {
-      title: "Framer Motion",
-      src: "/images/logos/framer.webp",
-
+      title: "React JS",
+      src: "/images/logos/react.png",
       className: "h-10 w-10",
     },
     {
-      title: "Node",
-      src: "/images/logos/node.png",
-
-      className: "h-10 w-12",
+      title: "Next.js",
+      src: "/images/logos/next.png",
+      className: "h-10 w-14",
     },
     {
       title: "Tailwind",
       src: "/images/logos/tailwind.png",
-
       className: "h-10 w-24",
     },
     {
-      title: "Vercel",
-      src: "/images/logos/vercel.png",
-
-      className: "h-10 w-24",
+      title: "Express JS",
+      src: "/images/logos/express.webp",
+      className: "h-10 w-8",
+    },
+    {
+      title: "Node",
+      src: "/images/logos/node.png",
+      className: "h-10 w-12",
+    },
+    {
+      title: "Mongo DB",
+      src: "/images/logos/mongodb.svg",
+      className: "h-10 w-10",
+    },
+    {
+      title: "SCSS",
+      src: "/images/logos/scss.png",
+      className: "h-10 w-8",
+    },
+    {
+      title: "CSS",
+      src: "/images/logos/css.png",
+      className: "h-10 w-8",
+    },
+    {
+      title: "Bootstrap",
+      src: "/images/logos/bootstrap.png",
+      className: "h-10 w-8",
     },
   ];
   return (
